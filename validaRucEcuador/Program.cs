@@ -1,7 +1,7 @@
 ﻿using validaRucEcuador;
 
 
-string ruc = "1791245606001";
+string ruc = "3050045719001";
 
 bool valid = ValidateRUC.Validate(ruc);
 
